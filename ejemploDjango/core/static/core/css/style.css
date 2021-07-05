@@ -1,0 +1,212 @@
+* {
+    margin: 0%;       
+    padding: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+    background-color: rgb(4, 133, 57);
+    border: 1px solid black;
+}
+.logo{
+    width: 8%;
+    margin-right: 10px;
+    padding: 3px;
+    border: 1px solid rgb(0, 0, 0);
+       
+}
+body{
+    
+    background-color: rgb(109, 15, 148);
+    border: solid rgb(7, 7, 7);
+}
+
+#canasta{
+    margin-right: 2px;
+    width: 110px;
+    max-width: 100%; 
+    text-align: center;  
+    float: left;
+    
+} 
+
+.banner{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+ 
+       
+}
+.banner figure .capa{
+    
+    margin-top: 10px;
+    top: 0;
+    align-items: center;
+    width: 100%;
+    
+    text-align: center;
+    color: rgb(255, 255, 255); 
+    position: absolute;    
+}
+.banner figure{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    
+       
+}
+.banner figure img{
+    width: 100%;
+    height:  189px;
+    right: 100%;
+    margin: auto;
+    
+    background-image: url(../img/Verduleria.jpeg);
+    opacity: 0.8;  
+}
+.row{
+    text-align: center;
+    
+    
+    
+}
+
+.img-carrousel{
+    background-color: rgb(254, 246, 253);
+    align-items: center;
+    width: 30%;
+    padding: 30px;
+    margin: auto;
+    margin-bottom: 90px;
+    border-radius: 15px;
+    border: solid 2px black;
+
+}
+div.center{
+    margin-bottom: 15px;
+    background-position-x: center;
+    text-align: center;
+    padding: 15px 10px;
+    align-items: center;
+    
+}
+.card {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;    
+    margin-top: 30px;    
+    padding: 40px;
+    border: solid 2px rgb(4, 133, 57) ;
+    float: left;
+    
+}
+.row footer{
+    margin-top: 30px;
+    color: rgb(255, 255, 255);
+    padding-top: 35px;
+    min-height: 70px;
+    width: 100%;
+    bottom: 0;
+    background-color: rgb(138, 54, 247);
+}
+.reparto{
+    color: ghostwhite;
+}
+.localidad{
+    color: greenyellow;
+}
+.loca_reparto{
+    width: 60%;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    border-radius: 15px;
+    border: solid 2px black;
+}
+.sesion{
+    padding: 3%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.login{
+    align-items: center;
+    color: rgb(255, 255, 255);
+    padding: 2%;
+    align-content: center;
+    background-color: rgb(4, 133, 57);
+    width: 80%;
+    margin-left: 10%;
+    border: solid 2px black;
+    border-radius: 10px;
+    margin-bottom: 10%;
+     
+    
+}
+.ingresar{
+    text-align: center;
+}
+
+.contacto{
+    padding: auto;
+    color: rgb(255, 255, 255);
+    border: solid 2px black;
+    background-color: rgb(4, 133, 57);
+}
+#registro{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+#comentarioHelp{
+    color: rgb(35, 247, 16);
+}
+.sobre_nosotros{
+    width: 100%; 
+    background-color: rgb(80, 80, 57);
+    border: solid 2px black;
+
+
+}
+.parrafo{
+    color: white;
+    width: 91%;
+    text-align: center;
+    
+    max-width: 70%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.Snosotros{
+    background-color: rgb(40, 54, 208);
+    max-width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: auto;
+    
+    
+}
+.Titulo{
+    text-align: center;
+    color: white;
+
+}
+.lista{
+    align-items: center;
+    width: 70%;
+    margin-left: 20%;
+    color: white;
+    border: solid 2px black;
+    border-radius:  20px;
+    margin-bottom: 5%;
+    margin-top: 10px;
+}
+.clima{
+    padding: 10px;
+    text-align: center;
+    align-content: center;
+    width: 30%;
+    margin: auto;
+    max-width: 30%;
+    color: rgb(10, 10, 10);
+    border: solid 2px black;
+    border-radius: 10px;
+    background-color: tomato;
+}
